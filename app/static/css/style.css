@@ -1,0 +1,32 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+.top_sec{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav{
+    background-color: aqua;
+}
+
+.login_btn{
+    width: 50px;
+}
+
+.title{
+    font-size: 25px;
+}
+
+.bot_sec{
+    max-width: 90%;
+    margin: 0 auto;
+}
